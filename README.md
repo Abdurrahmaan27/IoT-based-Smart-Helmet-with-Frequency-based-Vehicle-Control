@@ -3,10 +3,10 @@ An IoT-based smart helmet that enhances driver safety using sensors and AI to de
 In case of an accident, it automatically sends the location to emergency services for quick response.
 
 # Helmet Unit
-<img width="1128" height="788" alt="image" src="https://github.com/user-attachments/assets/a366d4d5-caae-4fa0-95bb-1ecfed0b0aa3" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a366d4d5-caae-4fa0-95bb-1ecfed0b0aa3" />
 
 # Vehicle Unit
-<img width="1118" height="788" alt="image" src="https://github.com/user-attachments/assets/a7eaa5d0-e75f-4971-88bb-0984e3110693" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a7eaa5d0-e75f-4971-88bb-0984e3110693" />
 
 # Features
 1. Driver Drowsiness Detection:
@@ -52,7 +52,7 @@ In case of an accident, it automatically sends the location to emergency service
 
 # System Architecture
 
-<img width="1710" height="1210" alt="image" src="https://github.com/user-attachments/assets/dd255622-2cfc-487a-874a-d1964ebaeff3" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/dd255622-2cfc-487a-874a-d1964ebaeff3" />
 
 ## Installation
 
@@ -111,7 +111,16 @@ The smart helmet will now:
     - Automatically send accident location via GSM & GPS
     - Provide real-time feedback through buzzer and LCD
 
-    
+# Working FlowChart
+1. Working Flowchart of the Helmet Section that monitors the Driver's Drowsiness levels:
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/1cd32b93-d81a-4a43-8d67-d35a05bb5d5d" />
+
+2. Working flowchart of the vehicle module that monitors blind spots to detect nearby vehicle intrusion:
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b022f742-df93-466a-8ce3-a126bcac74b4" />
+
+
 # Future Enhancements
   - Integration with vehicle braking systems for automatic stopping.
   - Cloud-based accident data storage and analysis.
