@@ -100,10 +100,18 @@ python drowsiness_detection_live.py
   - Ensure power stability via a regulated power supply.
   - The helmet ignition will activate only when the push button is pressed (helmet worn).
 
-# Developed Using
-  - Languages: Embedded C, Python
-  - Tools: Arduino IDE, VS Code, Jupyter Notebook
-  - Frameworks: TensorFlow / Keras (LeNet CNN)
+9. Final Step
+Once setup is complete, run both:
+    - The Arduino system for sensors and communication
+    - The Python drowsiness detection script
+    
+The smart helmet will now:
+    - Detect drowsiness and alert the rider
+    - Monitor obstacles using the ultrasonic sensor
+    - Automatically send accident location via GSM & GPS
+    - Provide real-time feedback through buzzer and LCD
+
+    
 # Future Enhancements
   - Integration with vehicle braking systems for automatic stopping.
   - Cloud-based accident data storage and analysis.
