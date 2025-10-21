@@ -52,7 +52,7 @@ In case of an accident, it automatically sends the location to emergency service
 
 # System Architecture
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/dd255622-2cfc-487a-874a-d1964ebaeff3" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/dd255622-2cfc-487a-874a-d1964ebaeff3" />
 
 ## Installation
 
