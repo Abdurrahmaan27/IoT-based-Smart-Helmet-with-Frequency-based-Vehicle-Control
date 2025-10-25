@@ -1,6 +1,6 @@
-
 # import the necessary packages
-from scipy.spatial import distance as dist # to compute euclidiean distance
+from scipy.spatial import distance as dist 
+# to compute euclidiean distance
 from imutils.video import VideoStream
 from imutils import face_utils
 import numpy as np
