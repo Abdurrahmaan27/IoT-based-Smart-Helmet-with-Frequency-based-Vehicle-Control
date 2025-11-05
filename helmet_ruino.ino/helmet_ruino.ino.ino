@@ -1,7 +1,9 @@
 #define ph 2
 #define buz 3
 #include<SoftwareSerial.h>
+
 SoftwareSerial ss(6, 7);
+
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(13, 12, 11, 10, 9, 8);
 char py_rx, zig_rx;
@@ -77,4 +79,5 @@ void serialEvent() {
     }
   }
 }
+
 
