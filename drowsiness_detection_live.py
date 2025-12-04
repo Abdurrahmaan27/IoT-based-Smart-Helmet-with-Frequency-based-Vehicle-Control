@@ -18,6 +18,7 @@ def eye_aspect_ratio(eye):
 	A = dist.euclidean(eye[1], eye[5])
 	B = dist.euclidean(eye[2], eye[4])
 	# compute the euclidean distance between the horizontal
+	
 	# eye landmark (x, y)-coordinates
 	C = dist.euclidean(eye[0], eye[3])
 	# compute the eye aspect ratio
